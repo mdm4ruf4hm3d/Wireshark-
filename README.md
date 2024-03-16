@@ -31,3 +31,20 @@ apt show wireshark
 
 
 sudo wireshark
+
+
+
+
+
+
+
+
+
+
+
+https://ubuntuhandbook.org/
+
+
+
+
+
